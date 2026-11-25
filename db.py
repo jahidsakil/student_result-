@@ -5,7 +5,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 
-SERVER_URL = "postgresql+psycopg2://training_r6gf_user:RXPh6cQ5BTM3Z039FwYNVWMxi6Wy8ZQp@dpg-dc36b5om7kps73daqjm0-a.oregon-postgres.render.com/training_r6gf"
+SERVER_URL ="postgresql+psycopg2://sdgasdg_user:GIqIdyUNKhn2Cw5Y2LMPfABuVyIaLfdf@dpg-dc36koom7kps73dbq3mg-a.oregon-postgres.render.com/sdgasdg"
 
 
 
